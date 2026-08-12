@@ -1,8 +1,8 @@
 site:
   name: AstroWind
-  site: 'https://astrowind.vercel.app'
-  base: '/'
-  trailingSlash: false
+  site: 'https://nobelnambu.github.io'
+  base: '/astrowind/'
+  trailingSlash: true
 
   googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
 
